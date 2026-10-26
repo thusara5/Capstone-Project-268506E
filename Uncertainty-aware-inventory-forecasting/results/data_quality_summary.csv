@@ -1,0 +1,9 @@
+Check,Result
+Rows,76000
+Columns,16
+Unique dates,760
+Unique stores,5
+Unique products,20
+Repeated date-store-product rows,0
+Missing calendar dates,0
+Missing values,0

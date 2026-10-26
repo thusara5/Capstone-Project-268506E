@@ -21,7 +21,7 @@ data/raw/*
 
 
 # Generated results
-results/*
+
 !results/.gitkeep
 
 # Editor and OS files
